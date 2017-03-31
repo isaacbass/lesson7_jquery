@@ -14,7 +14,7 @@ This project uses the jQuery framework to alter a website featuring a brownie re
 
 ### View Project:
 https://isaacbass.github.io/lesson7_jquery/Lesson7_Assignment/index.html
-https://isaacbass.github.io/lesson7_jquery/Lesson7_Assignment/index1.html
+https://isaacbass.github.io/lesson7_jquery/Lesson7_Assignment/index2.html
 
 ### Lessons Learned in the Assignment:
 1. jQuery enables developers to implement common JavaScript tasks with minimal code.
