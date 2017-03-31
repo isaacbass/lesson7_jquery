@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/31/17
 
 ### Student Name:  
-(First and Last Name)
+Isaac Bass
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project uses the jQuery framework to alter a website featuring a brownie recipe.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://isaacbass.github.io/lesson7_jquery/Lesson7_Assignment/index.html
+https://isaacbass.github.io/lesson7_jquery/Lesson7_Assignment/index1.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery enables developers to implement common JavaScript tasks with minimal code.
+2. All jQuery code conforms to JavaScript rules.
+3. Every jQuery statement begins with $.
